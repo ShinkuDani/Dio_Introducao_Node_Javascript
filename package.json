@@ -1,0 +1,19 @@
+{
+  "name": "dio_introducao_node_javascript",
+  "version": "1.0.0",
+  "description": "Dio introdução ao javascript e NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinkuDani/Dio_Introducao_Node_Javascript.git"
+  },
+  "author": "Daniel Silva Sales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinkuDani/Dio_Introducao_Node_Javascript/issues"
+  },
+  "homepage": "https://github.com/ShinkuDani/Dio_Introducao_Node_Javascript#readme"
+}
